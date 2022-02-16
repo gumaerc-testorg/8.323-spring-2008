@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 4a0078dc-a023-0988-12bc-959efe98f4ef
 ---
@@ -19,7 +21,7 @@ The Department of Physics at Harvard Universtity has made available video record
 
 *   Part 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 6.4 MB](http://www.damtp.cam.ac.uk/user/dt281/qft/col2.pdf))
 
-[Bryan Gin-ge Chen](http://www.physics.upenn.edu/~chb/) has produced a TeX version of about 11 lectures of the 28 lectures in Brian Hill's notes.
+[Bryan Gin-ge Chen](https://arxiv.org/abs/1110.5013) has produced a TeX version of about 11 lectures of the 28 lectures in Brian Hill's notes.
 
 Recommended Books
 -----------------
