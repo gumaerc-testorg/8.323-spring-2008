@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on course meeting times, prerequisites, the required textbook, grading, grading,
+  homework policy, and the list of lecture topics.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 166c1472-f766-3f11-25d2-6115938c5530
 ---
@@ -28,7 +33,7 @@ Required Textbook
 
 Peskin, Michael E., and Daniel V. Schroeder. _An Introduction to Quantum Field Theory_. Boulder, CO: Westview Press, 1995. ISBN: 9780201503975.
 
-See the [Related Resources]({{< baseurl >}}/pages/related-resources) section for a list of recommended online resources and books.
+See the {{% resource_link 4a0078dc-a023-0988-12bc-959efe98f4ef "Related Resources" %}} section for a list of recommended online resources and books.
 
 Grading
 -------

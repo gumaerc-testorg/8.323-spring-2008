@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides links to recommended online resources and a list
+  of recommended books for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 4a0078dc-a023-0988-12bc-959efe98f4ef
 ---
@@ -15,11 +19,11 @@ Recommended Online Resources
 
 The Department of Physics at Harvard Universtity has made available video recordings of lectures by the late [Sidney Coleman](http://en.wikipedia.org/wiki/Sidney_Coleman) for his graduate course Quantum Field Theory. The [videos](https://www.physics.harvard.edu/events/videos/Phys253) were recorded during the 1975-1976 academic year. In additon, handwritten lecture notes of the lectures are available as transcribed by Brian Hill. Each scanned file is about 6.5 MB in size.
 
-*   Part 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 6.5 MB](http://www.damtp.cam.ac.uk/user/dt281/qft/col1.pdf))
+*   Part 1 ([PDF - 6.5 MB](http://www.damtp.cam.ac.uk/user/dt281/qft/col1.pdf))
 
-*   Part 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 6.4 MB](http://www.damtp.cam.ac.uk/user/dt281/qft/col2.pdf))
+*   Part 2 ([PDF - 6.4 MB](http://www.damtp.cam.ac.uk/user/dt281/qft/col2.pdf))
 
-[Bryan Gin-ge Chen](http://www.physics.upenn.edu/~chb/) has produced a TeX version of about 11 lectures of the 28 lectures in Brian Hill's notes.
+[Bryan Gin-ge Chen](https://arxiv.org/abs/1110.5013) has produced a TeX version of about 11 lectures of the 28 lectures in Brian Hill's notes.
 
 Recommended Books
 -----------------
