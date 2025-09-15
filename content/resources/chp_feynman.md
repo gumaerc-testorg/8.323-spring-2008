@@ -2,7 +2,8 @@
 content_type: resource
 description: An example of disconnected Feynman Diagrams. (Adapted from Prof. Alan
   Guth's lecture notes.)
-file: /courses/8-323-relativistic-quantum-field-theory-i-spring-2008/7fbe0e9b013cee3a02e5708af6855f99_chp_feynman.jpg
+file: /ol-ocw-studio-app/courses/8-323-relativistic-quantum-field-theory-i-spring-2008/7fbe0e9b013cee3a02e5708af6855f99_chp_feynman.jpg
+file_size: 27954
 file_type: image/jpeg
 image_metadata:
   caption: ''
