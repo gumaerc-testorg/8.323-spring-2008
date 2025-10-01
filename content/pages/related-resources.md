@@ -11,19 +11,19 @@ uid: 4a0078dc-a023-0988-12bc-959efe98f4ef
 Recommended Online Resources
 ----------------------------
 
-[Corrections Page](http://www.slac.stanford.edu/~mpeskin/QFT.html) for the required textbook _Introduction to Quantum Field Theory_
+{{% resource_link "da2e3b84-353d-4368-98dc-1f5673da5f83" "Corrections Page" %}} for the required textbook _Introduction to Quantum Field Theory_
 
-[Weak Interactions](http://www.people.fas.harvard.edu/~hgeorgi/283.html) by Howard Georgi, Professor, Department of Physics, Harvard University
+{{% resource_link "2db9be04-9221-459a-bc6a-e7ef98f71cc0" "Weak Interactions" %}} by Howard Georgi, Professor, Department of Physics, Harvard University
 
-[Lectures on Quantum Field Theory](http://www.damtp.cam.ac.uk/user/dt281/qft.html) by Dr. David Tong, High Energy Particle Physics Group, Department of Applied Mathematics and Theoretical Physics, University of Cambridge
+{{% resource_link "4b7257ae-b0cf-492c-8666-e22a42fbe9de" "Lectures on Quantum Field Theory" %}} by Dr. David Tong, High Energy Particle Physics Group, Department of Applied Mathematics and Theoretical Physics, University of Cambridge
 
-The Department of Physics at Harvard Universtity has made available video recordings of lectures by the late [Sidney Coleman](http://en.wikipedia.org/wiki/Sidney_Coleman) for his graduate course Quantum Field Theory. The [videos](https://www.physics.harvard.edu/events/videos/Phys253) were recorded during the 1975-1976 academic year. In additon, handwritten lecture notes of the lectures are available as transcribed by Brian Hill. Each scanned file is about 6.5 MB in size.
+The Department of Physics at Harvard Universtity has made available video recordings of lectures by the late {{% resource_link "5cc05eb1-2abb-4328-971b-bf6feb6e85db" "Sidney Coleman" %}} for his graduate course Quantum Field Theory. The {{% resource_link "e27e5f82-a9c9-4098-97ad-5249647da172" "videos" %}} were recorded during the 1975-1976 academic year. In additon, handwritten lecture notes of the lectures are available as transcribed by Brian Hill. Each scanned file is about 6.5 MB in size.
 
-*   Part 1 ([PDF - 6.5 MB](http://www.damtp.cam.ac.uk/user/dt281/qft/col1.pdf))
+*   Part 1 ({{% resource_link "6a14fa8b-a1a1-4c39-9819-1eea7b5c06af" "PDF - 6.5 MB" %}})
 
-*   Part 2 ([PDF - 6.4 MB](http://www.damtp.cam.ac.uk/user/dt281/qft/col2.pdf))
+*   Part 2 ({{% resource_link "56300081-cfde-4ebd-9f1e-54b7318c03ff" "PDF - 6.4 MB" %}})
 
-[Bryan Gin-ge Chen](https://arxiv.org/abs/1110.5013) has produced a TeX version of about 11 lectures of the 28 lectures in Brian Hill's notes.
+{{% resource_link "401860cd-a0f6-414e-8040-e3d4d009f77a" "Bryan Gin-ge Chen" %}} has produced a TeX version of about 11 lectures of the 28 lectures in Brian Hill's notes.
 
 Recommended Books
 -----------------
